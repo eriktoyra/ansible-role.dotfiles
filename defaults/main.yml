@@ -7,7 +7,6 @@ dotfiles_repo_local_destination: "~/Projects/Private/dotfiles"
 dotfiles_home: "~"
 dotfiles_files:
   - .aliases
-  - .CFUserTextEncoding
   - .functions
   - .gitconfig
   - .zshrc
